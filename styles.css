@@ -58,7 +58,7 @@ a:hover {
 
 header {
   text-align: center;
-  background-image: url('../images/chicago.JPG');
+  background-image: url('images/chicago.JPG');
   background-position: 55% 28%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -182,10 +182,10 @@ a.social {
 }
 
 a.linkedin {
-  background-image: url(../images/linkedin.svg);
+  background-image: url(images/linkedin.svg);
 }
 a.github {
-  background-image: url(../images/github.svg);
+  background-image: url(images/github.svg);
 }
 a.social:hover {
   opacity: 1;
